@@ -1,4 +1,4 @@
-# Operating_System_Embedded_OS
+# Operating_Systems
 
 Bare Metal, RTOS (FreeRTOS, QNX, Zephyr), Linux OS (Linux Kernel), OS Primitives etc
 
