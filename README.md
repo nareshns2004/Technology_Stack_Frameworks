@@ -10,6 +10,6 @@
 
 5) Fullstack: End to End Projects
 
-6) Apply - Jobs. Internship, Freelancing
+6) Apply - Jobs, Internship, Freelancing
 
 7) Learn - React/Angular, TypeScript
