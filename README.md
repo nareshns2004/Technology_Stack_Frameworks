@@ -1,1 +1,1 @@
-Embedded, Web, Mobile, DevOps, Blockchain, Security, AI, Quantum etc
+Web, Mobile, DevOps, IoT, Blockchain, Security, AI, Quantum etc
