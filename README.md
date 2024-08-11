@@ -1,4 +1,4 @@
-<h3><b>Systems, FullStack, Blockchain, CybSec, Artificial, Quantum etc</b></h3>
+<h3><b>Hardware, FullStack, Blockchain, CybSec, Artificial, Quantum etc</b></h3>
 
 
 ![Computer Science](https://github.com/user-attachments/assets/f07e891d-b620-4e2d-8fc9-1a0690582590)
