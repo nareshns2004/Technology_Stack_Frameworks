@@ -1,1 +1,1 @@
-<b><h3>High Performance Computing</h3></b>
+<b><h3>Computing Paradigms</h3></b>
