@@ -8,9 +8,9 @@ public class MyFirstProjectApplication {
 
 	public static void main(String[] args) {
 		
-		Vehicle vehicle1 = new Bus();
-		String mil = vehicle1.getMileage();
-		System.out.println(mil);
+		Vehicle vehicle = new Bus();
+		String mileage = vehicle.getMileage();
+		System.out.println(mileage);
 		
 	}
 
