@@ -1,7 +1,7 @@
 package com.example.riley.myFirstProject;
 
-public interface Vehicle {
+public interface DiscountService {
 	
-	public String getMileage();
 	public String getDiscountMessage();
+	
 }
