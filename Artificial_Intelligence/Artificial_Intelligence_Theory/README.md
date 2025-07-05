@@ -1,1 +1,1 @@
-Projects
+# Artificial Intelligence Theory
